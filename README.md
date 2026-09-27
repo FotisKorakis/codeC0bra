@@ -13,7 +13,7 @@
 
 ##  Features
 -  **Python-Focused Curriculum:** Tailored lessons focusing on Python syntax, logic, and best practices.
--  **Modern Dark UI:** Eye-friendly design, perfect for long coding sessions.
+-  **Modern Dark UI:** Eye-friendly design, perfect for long use.
 -  **Interactive Lessons:** Easy navigation to lessons, exercises, and videos.
 -  **Responsive Design:** Optimized for a seamless experience across desktops, tablets, and mobile devices.
 
