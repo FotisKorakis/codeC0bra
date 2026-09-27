@@ -1,7 +1,6 @@
-<img width="500" height="500" alt="c0bra" src="https://github.com/user-attachments/assets/38e80684-d9a2-46b3-8f6d-0b8be014744a" />
 <div align="center">
   <h1>
-    <img src="c0bra.png" alt="CodeC0bra Logo" width="45" /> 
+    <img width="50" height="50" src="https://github.com/user-attachments/assets/38e80684-d9a2-46b3-8f6d-0b8be014744a"  alt="CodeC0bra Logo" width="45" /> 
     CodeC0bra
   </h1>
   <p><em>An interactive, modern web platform dedicated to learning Python programming.</em></p>
