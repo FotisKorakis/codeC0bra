@@ -5,7 +5,7 @@
   </h1>
   <p><em>An interactive, modern web platform dedicated to learning Python programming.</em></p>
   
-  <h3><a href="https://bale-to-link-sou-edo.com">🌍 View Live Demo</a></h3>
+  <h3><a href="https://kostasmoust.github.io/codeC0bra/">🌍 View Live Demo</a></h3>
 </div>
 
 ##  About the Project
